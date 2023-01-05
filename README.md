@@ -1,2 +1,3 @@
 # schultetablemaincode
 All game code soon.....
+This is combine code of fifthpage and table.. 
